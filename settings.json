@@ -8,11 +8,11 @@
   "server": {
     "ip": "prod.play.hosting",
     "port": 25565,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -34,22 +34,22 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 5000,
+    "auto-reconnect-delay": 10000,
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 3,
       "speed": 6500
     },
     "look-around": {
-      "enabled": true,
+      "enabled": false,
       "interval": 7000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 25000
     }
   },
