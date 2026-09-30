@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "prod.play.hosting",
-    "port": 25954,
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
